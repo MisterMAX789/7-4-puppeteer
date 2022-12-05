@@ -2,7 +2,7 @@
   "name": "jsaqa_3_3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "jest"
   },
@@ -11,6 +11,6 @@
   "dependencies": {
     "jest": "^27.3.1",
     "jest-puppeteer": "^6.0.0",
-    "puppeteer": "^13.3.2"
+    "puppeteer": "^19.3.0"
   }
 }
